@@ -18,7 +18,7 @@
 
 14.4. [ + ] [Сервис-аккаунты](14.4.md)
 
-14.5. [ - ] [SecurityContext, NetworkPolicies](14.5.md)
+14.5. [ + ] [SecurityContext, NetworkPolicies](14.5.md)
 
 
 ## Блок 15. Организация проекта при помощи облачных провайдеров
